@@ -1,0 +1,9 @@
+# ninja log v5
+13	1477	7172854043791926	CMakeFiles/aed2324_p01.dir/Tests/funWithCycles.cpp.obj	74074d473eda3086
+2	7229	7167470398987626	CMakeFiles/aed2324_p01.dir/main.cpp.obj	11aa1e0c38edd1c2
+19	11352	7172851873692201	CMakeFiles/aed2324_p01.dir/Tests/tests.cpp.obj	6109dc98507c0f24
+7232	13242	7167470459452118	lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	4d1236deb147f24
+3382	34452	7167470671108104	lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	f09f60f32fdba466
+34460	43714	7167470764220009	lib/libgtest.a	958cf25d41b38921
+43714	43865	7167470765780118	lib/libgtest_main.a	3bed59ecc4bb4c28
+1479	11077	7172854139627709	aed2324_p01.exe	8ab058449215cb67

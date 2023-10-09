@@ -1,0 +1,12 @@
+prefix=C:/Program Files (x86)/aed2324_p02
+exec_prefix=${prefix}
+libdir=C:/Program Files (x86)/aed2324_p02/lib
+includedir=C:/Program Files (x86)/aed2324_p02/include
+
+Name: benchmark
+Description: Google microbenchmark framework
+Version: 1.8.3
+
+Libs: -L${libdir} -lbenchmark
+Libs.private: -lpthread
+Cflags: -I${includedir}

@@ -169,16 +169,16 @@ TEST(test_6_1, loseGame){
     Kid c5("Marta",4,'f');
     Kid c6("Vasco",5,'m');
 
-//    Game game1;
-//    game1.addKid(c1);
-//    game1.addKid(c2);
-//    game1.addKid(c3);
-//    game1.addKid(c4);
-//    game1.addKid(c5);
-//    game1.addKid(c6);
+    Game game1;
+    game1.addKid(c1);
+    game1.addKid(c2);
+    game1.addKid(c3);
+    game1.addKid(c4);
+    game1.addKid(c5);
+    game1.addKid(c6);
     string s = "Pim Pam Pum cada bola mata um pra galinha e pro peru quem se livra es mesmo tu";
-//    Kid cx = game1.loseGame(s);
-//    EXPECT_EQ("Rui", cx.getName());
+    Kid cx = game1.loseGame(s);
+    EXPECT_EQ("Rui", cx.getName());
 
     Game game2;
     s = "Pim Pam Pum Pim";
@@ -191,13 +191,13 @@ TEST(test_6_1, loseGame){
     Kid cx = game2.loseGame(s);
     EXPECT_EQ("Marta", cx.getName());
 
-//    Game game3;
-//    s = "Pim Pam Pum";
-//    game3.addKid(c1);
-//    game3.addKid(c2);
-//    game3.addKid(c3);
-//    cx = game3.loseGame(s);
-//    EXPECT_EQ("Ana", cx.getName());
+    Game game3;
+    s = "Pim Pam Pum";
+    game3.addKid(c1);
+    game3.addKid(c2);
+    game3.addKid(c3);
+    cx = game3.loseGame(s);
+    EXPECT_EQ("Ana", cx.getName());
 }
 
 //=============================================================================

@@ -73,7 +73,7 @@ vector<int> FunListStackQueueProblem::calculateSpan(vector<int> prices) {
     for (int i = 0; i < prices.size(); i++) {
         while (!closet_day_index.empty() && prices[i] > prices[closet_day_index.top()]) {
             closet_day_index.pop(); //We remove the top of the stack until the stack is empty or
-                                    //we find the closest day greater than prices[i]
+            //we find the closest day greater than prices[i]
         }
         closet_day_index.empty() ? res.push_back(i + 1) : res.push_back(i - closet_day_index.top()); //We calculate the length of the referred interval
         closet_day_index.push(i); //We have a new closest day!

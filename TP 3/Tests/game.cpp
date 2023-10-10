@@ -46,7 +46,21 @@ void Game::setKids(const list<Kid>& l1) {
 //=============================================================================
 // TODO
 Kid Game::loseGame(string phrase) {
-    return Kid();
+    unsigned int n_word = numberOfWords(phrase);
+    list<Kid>::iterator it;
+    int nextPos = 0;
+    while (kids.size() > 1) {
+        if (n_word % kids.size() == 0) {
+            kids.pop_back();
+        }
+        else {
+            nextPos = n_word % kids.size() - 1;
+            it = next(kids.begin(), nextPos);
+            it = kids.erase(it);
+        }
+    }
+    return kids.front();
+    //Only passes te 1st test
 }
 
 

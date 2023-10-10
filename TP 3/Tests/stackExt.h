@@ -5,15 +5,15 @@ using namespace std;
 
 template <class T>
 class StackExt {
-	stack<T> values;
-	stack<T> minimums;
+        stack<T> values;
+        stack<T> minimums;
 public:
-	StackExt() {};
-	bool empty() const; 
-	T& top();
-	void pop();
-	void push(const T& val);
-	T& findMin();
+        StackExt() {};
+        bool empty() const;
+        T& top();
+        void pop();
+        void push(const T& val);
+        T& findMin();
 };
 
 //=============================================================================

@@ -24,7 +24,7 @@ void WordMean::setWord(string w) {
 }
 
 set<WordMean> Dictionary::getWords() const {
-	return words;
+    return words;
 }
 
 void Dictionary::addWord(WordMean wm)  {
@@ -60,9 +60,11 @@ bool Dictionary::update(string w1, string m1) {
     auto it = words.begin();
     while (it != words.end()) {
         if (it->getWord() == w1) {
-            //Remove the old word and insert the updated
+            words.erase(it);
+            addWord(WordMean(w1, m1));
             return true;
         }
+        it++;
     }
     addWord(WordMean(w1, m1));
     return false;

@@ -60,11 +60,9 @@ bool Dictionary::update(string w1, string m1) {
     auto it = words.begin();
     while (it != words.end()) {
         if (it->getWord() == w1) {
-            words.erase(it);
-            addWord(WordMean(w1, m1));
+            //Remove the old word and insert the updated
             return true;
         }
-        it++;
     }
     addWord(WordMean(w1, m1));
     return false;

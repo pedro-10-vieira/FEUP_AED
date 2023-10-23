@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "lib/benchmark/test/user_counters_tabular_test.exe"
+			"path" : "lib/benchmark/test/memory_manager_test.exe"
 		},
 		{
-			"path" : "lib/benchmark/test/user_counters_tabular_test.pdb"
+			"path" : "lib/benchmark/test/memory_manager_test.pdb"
 		}
 	],
 	"backtrace" : 2,
@@ -36,7 +36,7 @@
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 176,
+				"line" : 182,
 				"parent" : 0
 			},
 			{
@@ -194,14 +194,14 @@
 		},
 		{
 			"backtrace" : 3,
-			"id" : "benchmark_main::@263d5672d1776d77af40"
+			"id" : "benchmark::@263d5672d1776d77af40"
 		},
 		{
 			"backtrace" : 3,
-			"id" : "benchmark::@263d5672d1776d77af40"
+			"id" : "benchmark_main::@263d5672d1776d77af40"
 		}
 	],
-	"id" : "user_counters_tabular_test::@ffc329ffbc60a487a66f",
+	"id" : "memory_manager_test::@ffc329ffbc60a487a66f",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -241,8 +241,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "user_counters_tabular_test",
-	"nameOnDisk" : "user_counters_tabular_test.exe",
+	"name" : "memory_manager_test",
+	"nameOnDisk" : "memory_manager_test.exe",
 	"paths" : 
 	{
 		"build" : "lib/benchmark/test",
@@ -270,7 +270,7 @@
 		{
 			"backtrace" : 2,
 			"compileGroupIndex" : 0,
-			"path" : "lib/benchmark/test/user_counters_tabular_test.cc",
+			"path" : "lib/benchmark/test/memory_manager_test.cc",
 			"sourceGroupIndex" : 0
 		},
 		{

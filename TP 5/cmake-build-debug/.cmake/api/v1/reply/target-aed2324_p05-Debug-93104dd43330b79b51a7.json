@@ -135,11 +135,11 @@
 		},
 		{
 			"backtrace" : 2,
-			"id" : "benchmark_main::@263d5672d1776d77af40"
+			"id" : "benchmark::@263d5672d1776d77af40"
 		},
 		{
 			"backtrace" : 2,
-			"id" : "benchmark::@263d5672d1776d77af40"
+			"id" : "benchmark_main::@263d5672d1776d77af40"
 		}
 	],
 	"id" : "aed2324_p05::@6890427a1f51a3e7e1df",

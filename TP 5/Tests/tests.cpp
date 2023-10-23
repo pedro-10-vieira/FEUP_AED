@@ -222,10 +222,10 @@ BENCHMARK(BM_Update)
         ->Complexity();
 */
 
-/*
+
 BENCHMARK(BM_PairSum)
         ->Unit(benchmark::kNanosecond)
         ->RangeMultiplier(2)->Range(1<<10, 1<<16)
         ->Complexity();
-*/
+
 

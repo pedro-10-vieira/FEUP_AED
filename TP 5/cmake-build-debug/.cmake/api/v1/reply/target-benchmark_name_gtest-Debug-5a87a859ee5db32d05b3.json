@@ -219,15 +219,15 @@
 	[
 		{
 			"backtrace" : 4,
-			"id" : "gtest::@7e3677ed2a4dc8c8eb88"
-		},
-		{
-			"backtrace" : 4,
 			"id" : "gmock::@7712283c01f504ef6d93"
 		},
 		{
 			"backtrace" : 4,
 			"id" : "gmock_main::@7712283c01f504ef6d93"
+		},
+		{
+			"backtrace" : 4,
+			"id" : "gtest::@7e3677ed2a4dc8c8eb88"
 		},
 		{
 			"backtrace" : 4,

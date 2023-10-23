@@ -194,11 +194,11 @@
 		},
 		{
 			"backtrace" : 3,
-			"id" : "benchmark_main::@263d5672d1776d77af40"
+			"id" : "benchmark::@263d5672d1776d77af40"
 		},
 		{
 			"backtrace" : 3,
-			"id" : "benchmark::@263d5672d1776d77af40"
+			"id" : "benchmark_main::@263d5672d1776d77af40"
 		}
 	],
 	"id" : "report_aggregates_only_test::@ffc329ffbc60a487a66f",

@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "lib/benchmark/test/statistics_gtest.exe"
+			"path" : "lib/benchmark/test/benchmark_random_interleaving_gtest.exe"
 		},
 		{
-			"path" : "lib/benchmark/test/statistics_gtest.pdb"
+			"path" : "lib/benchmark/test/benchmark_random_interleaving_gtest.pdb"
 		}
 	],
 	"backtrace" : 3,
@@ -38,7 +38,7 @@
 			{
 				"command" : 2,
 				"file" : 0,
-				"line" : 240,
+				"line" : 238,
 				"parent" : 0
 			},
 			{
@@ -219,10 +219,6 @@
 	[
 		{
 			"backtrace" : 4,
-			"id" : "gtest::@7e3677ed2a4dc8c8eb88"
-		},
-		{
-			"backtrace" : 4,
 			"id" : "gmock::@7712283c01f504ef6d93"
 		},
 		{
@@ -231,10 +227,14 @@
 		},
 		{
 			"backtrace" : 4,
+			"id" : "gtest::@7e3677ed2a4dc8c8eb88"
+		},
+		{
+			"backtrace" : 4,
 			"id" : "benchmark::@263d5672d1776d77af40"
 		}
 	],
-	"id" : "statistics_gtest::@ffc329ffbc60a487a66f",
+	"id" : "benchmark_random_interleaving_gtest::@ffc329ffbc60a487a66f",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -279,8 +279,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "statistics_gtest",
-	"nameOnDisk" : "statistics_gtest.exe",
+	"name" : "benchmark_random_interleaving_gtest",
+	"nameOnDisk" : "benchmark_random_interleaving_gtest.exe",
 	"paths" : 
 	{
 		"build" : "lib/benchmark/test",
@@ -301,7 +301,7 @@
 		{
 			"backtrace" : 3,
 			"compileGroupIndex" : 0,
-			"path" : "lib/benchmark/test/statistics_gtest.cc",
+			"path" : "lib/benchmark/test/benchmark_random_interleaving_gtest.cc",
 			"sourceGroupIndex" : 0
 		}
 	],

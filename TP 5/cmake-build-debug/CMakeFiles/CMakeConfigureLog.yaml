@@ -61,8 +61,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-66mmzv"
-      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-66mmzv"
+      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-21qpxj"
+      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-21qpxj"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -71,9 +71,9 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-66mmzv
+        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-21qpxj
         
-        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_1012a && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe   -fdiagnostics-color=always   -v -o CMakeFiles/cmTC_1012a.dir/CMakeCCompilerABI.c.obj -c "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCCompilerABI.c"
+        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_b28a3 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe   -fdiagnostics-color=always   -v -o CMakeFiles/cmTC_b28a3.dir/CMakeCCompilerABI.c.obj -c "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCCompilerABI.c"
         Using built-in specs.
         COLLECT_GCC=C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe
         Target: x86_64-w64-mingw32
@@ -81,8 +81,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib
         gcc version 13.1.0 (GCC) 
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_1012a.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_1012a.dir/'
-         C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1.exe -quiet -v -iprefix C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -D_REENTRANT C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_1012a.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -fdiagnostics-color=always -o C:\\Users\\User\\AppData\\Local\\Temp\\ccjikwC3.s
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_b28a3.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_b28a3.dir/'
+         C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1.exe -quiet -v -iprefix C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -D_REENTRANT C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_b28a3.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -fdiagnostics-color=always -o C:\\Users\\User\\AppData\\Local\\Temp\\ccL6tHQ7.s
         GNU C17 (GCC) version 13.1.0 (x86_64-w64-mingw32)
         	compiled by GNU C version 13.1.0, GMP version 6.2.1, MPFR version 4.2.0-p4, MPC version 1.3.1, isl version none
         GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
@@ -100,13 +100,13 @@ events:
          C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include
         End of search list.
         Compiler executable checksum: 2aa4fcf5c9208168c5e2d38a58fc2a97
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_1012a.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_1012a.dir/'
-         as -v -o CMakeFiles/cmTC_1012a.dir/CMakeCCompilerABI.c.obj C:\\Users\\User\\AppData\\Local\\Temp\\ccjikwC3.s
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_b28a3.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_b28a3.dir/'
+         as -v -o CMakeFiles/cmTC_b28a3.dir/CMakeCCompilerABI.c.obj C:\\Users\\User\\AppData\\Local\\Temp\\ccL6tHQ7.s
         GNU assembler version 2.40 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.40
         COMPILER_PATH=C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/;C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../libexec/gcc/
         LIBRARY_PATH=C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/;C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/;C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/;C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/;C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_1012a.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_1012a.dir/CMakeCCompilerABI.c.'
-        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe  -v CMakeFiles/cmTC_1012a.dir/CMakeCCompilerABI.c.obj -o cmTC_1012a.exe -Wl,--out-implib,libcmTC_1012a.dll.a -Wl,--major-image-version,0,--minor-image-version,0   && cd ."
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_b28a3.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_b28a3.dir/CMakeCCompilerABI.c.'
+        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe  -v CMakeFiles/cmTC_b28a3.dir/CMakeCCompilerABI.c.obj -o cmTC_b28a3.exe -Wl,--out-implib,libcmTC_b28a3.dll.a -Wl,--major-image-version,0,--minor-image-version,0   && cd ."
         Using built-in specs.
         COLLECT_GCC=C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe
         COLLECT_LTO_WRAPPER=C:/Program\\ Files/JetBrains/CLion\\ 2023.2.2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/lto-wrapper.exe
@@ -117,9 +117,9 @@ events:
         gcc version 13.1.0 (GCC) 
         COMPILER_PATH=C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/;C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../libexec/gcc/
         LIBRARY_PATH=C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/;C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/;C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/;C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/;C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_1012a.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_1012a.'
-         C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe -m i386pep -Bdynamic -o cmTC_1012a.exe C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. CMakeFiles/cmTC_1012a.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_1012a.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_1012a.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_1012a.'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_b28a3.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_b28a3.'
+         C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe -m i386pep -Bdynamic -o cmTC_b28a3.exe C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. CMakeFiles/cmTC_b28a3.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_b28a3.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_b28a3.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_b28a3.'
         
       exitCode: 0
   -
@@ -153,9 +153,9 @@ events:
     message: |
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(ld\\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
-        ignore line: [Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-66mmzv]
+        ignore line: [Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-21qpxj]
         ignore line: []
-        ignore line: [Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_1012a && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe   -fdiagnostics-color=always   -v -o CMakeFiles/cmTC_1012a.dir/CMakeCCompilerABI.c.obj -c "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCCompilerABI.c"]
+        ignore line: [Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_b28a3 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe   -fdiagnostics-color=always   -v -o CMakeFiles/cmTC_b28a3.dir/CMakeCCompilerABI.c.obj -c "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCCompilerABI.c"]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe]
         ignore line: [Target: x86_64-w64-mingw32]
@@ -163,8 +163,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib]
         ignore line: [gcc version 13.1.0 (GCC) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_1012a.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_1012a.dir/']
-        ignore line: [ C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1.exe -quiet -v -iprefix C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -D_REENTRANT C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_1012a.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -fdiagnostics-color=always -o C:\\Users\\User\\AppData\\Local\\Temp\\ccjikwC3.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_b28a3.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_b28a3.dir/']
+        ignore line: [ C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1.exe -quiet -v -iprefix C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -D_REENTRANT C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_b28a3.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -fdiagnostics-color=always -o C:\\Users\\User\\AppData\\Local\\Temp\\ccL6tHQ7.s]
         ignore line: [GNU C17 (GCC) version 13.1.0 (x86_64-w64-mingw32)]
         ignore line: [	compiled by GNU C version 13.1.0  GMP version 6.2.1  MPFR version 4.2.0-p4  MPC version 1.3.1  isl version none]
         ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
@@ -182,8 +182,8 @@ events:
         ignore line: [ C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: 2aa4fcf5c9208168c5e2d38a58fc2a97]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_1012a.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_1012a.dir/']
-        ignore line: [ as -v -o CMakeFiles/cmTC_1012a.dir/CMakeCCompilerABI.c.obj C:\\Users\\User\\AppData\\Local\\Temp\\ccjikwC3.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_b28a3.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_b28a3.dir/']
+        ignore line: [ as -v -o CMakeFiles/cmTC_b28a3.dir/CMakeCCompilerABI.c.obj C:\\Users\\User\\AppData\\Local\\Temp\\ccL6tHQ7.s]
         ignore line: [GNU assembler version 2.40 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.40]
         ignore line: [COMPILER_PATH=C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/]
         ignore line: [C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../libexec/gcc/]
@@ -193,8 +193,8 @@ events:
         ignore line: [C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/]
         ignore line: [C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_1012a.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_1012a.dir/CMakeCCompilerABI.c.']
-        ignore line: [[2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe  -v CMakeFiles/cmTC_1012a.dir/CMakeCCompilerABI.c.obj -o cmTC_1012a.exe -Wl --out-implib libcmTC_1012a.dll.a -Wl --major-image-version 0 --minor-image-version 0   && cd ."]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_b28a3.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_b28a3.dir/CMakeCCompilerABI.c.']
+        ignore line: [[2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe  -v CMakeFiles/cmTC_b28a3.dir/CMakeCCompilerABI.c.obj -o cmTC_b28a3.exe -Wl --out-implib libcmTC_b28a3.dll.a -Wl --major-image-version 0 --minor-image-version 0   && cd ."]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe]
         ignore line: [COLLECT_LTO_WRAPPER=C:/Program\\ Files/JetBrains/CLion\\ 2023.2.2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/lto-wrapper.exe]
@@ -211,9 +211,9 @@ events:
         ignore line: [C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/]
         ignore line: [C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_1012a.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_1012a.']
-        ignore line: [ C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe -m i386pep -Bdynamic -o cmTC_1012a.exe C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. CMakeFiles/cmTC_1012a.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_1012a.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_1012a.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_1012a.']
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_b28a3.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_b28a3.']
+        ignore line: [ C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe -m i386pep -Bdynamic -o cmTC_b28a3.exe C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. CMakeFiles/cmTC_b28a3.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_b28a3.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_b28a3.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_b28a3.']
         ignore line: []
         ignore line: []
         implicit libs: []
@@ -231,8 +231,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-siuip2"
-      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-siuip2"
+      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-d6i1oo"
+      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-d6i1oo"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -241,9 +241,9 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-siuip2
+        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-d6i1oo
         
-        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_773e9 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE   -fdiagnostics-color=always   -v -o CMakeFiles/cmTC_773e9.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCXXCompilerABI.cpp"
+        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_a53be && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE   -fdiagnostics-color=always   -v -o CMakeFiles/cmTC_a53be.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCXXCompilerABI.cpp"
         Using built-in specs.
         COLLECT_GCC=C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE
         Target: x86_64-w64-mingw32
@@ -251,8 +251,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib
         gcc version 13.1.0 (GCC) 
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_773e9.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_773e9.dir/'
-         C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1plus.exe -quiet -v -iprefix C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -D_REENTRANT C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_773e9.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -fdiagnostics-color=always -o C:\\Users\\User\\AppData\\Local\\Temp\\ccxuw52r.s
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_a53be.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_a53be.dir/'
+         C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1plus.exe -quiet -v -iprefix C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -D_REENTRANT C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_a53be.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -fdiagnostics-color=always -o C:\\Users\\User\\AppData\\Local\\Temp\\ccXR0t6L.s
         GNU C++17 (GCC) version 13.1.0 (x86_64-w64-mingw32)
         	compiled by GNU C version 13.1.0, GMP version 6.2.1, MPFR version 4.2.0-p4, MPC version 1.3.1, isl version none
         GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
@@ -276,13 +276,13 @@ events:
          C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include
         End of search list.
         Compiler executable checksum: e75de627edc3c57e31324b930b15b056
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_773e9.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_773e9.dir/'
-         as -v -o CMakeFiles/cmTC_773e9.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\User\\AppData\\Local\\Temp\\ccxuw52r.s
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_a53be.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_a53be.dir/'
+         as -v -o CMakeFiles/cmTC_a53be.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\User\\AppData\\Local\\Temp\\ccXR0t6L.s
         GNU assembler version 2.40 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.40
         COMPILER_PATH=C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/;C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../libexec/gcc/
         LIBRARY_PATH=C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/;C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/;C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/;C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/;C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_773e9.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_773e9.dir/CMakeCXXCompilerABI.cpp.'
-        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE  -v CMakeFiles/cmTC_773e9.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_773e9.exe -Wl,--out-implib,libcmTC_773e9.dll.a -Wl,--major-image-version,0,--minor-image-version,0   && cd ."
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_a53be.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_a53be.dir/CMakeCXXCompilerABI.cpp.'
+        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE  -v CMakeFiles/cmTC_a53be.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_a53be.exe -Wl,--out-implib,libcmTC_a53be.dll.a -Wl,--major-image-version,0,--minor-image-version,0   && cd ."
         Using built-in specs.
         COLLECT_GCC=C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE
         COLLECT_LTO_WRAPPER=C:/Program\\ Files/JetBrains/CLion\\ 2023.2.2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/lto-wrapper.exe
@@ -293,9 +293,9 @@ events:
         gcc version 13.1.0 (GCC) 
         COMPILER_PATH=C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/;C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../libexec/gcc/
         LIBRARY_PATH=C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/;C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/;C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/;C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/;C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_773e9.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_773e9.'
-         C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe -m i386pep -Bdynamic -o cmTC_773e9.exe C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. CMakeFiles/cmTC_773e9.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_773e9.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_773e9.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_773e9.'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_a53be.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_a53be.'
+         C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe -m i386pep -Bdynamic -o cmTC_a53be.exe C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. CMakeFiles/cmTC_a53be.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_a53be.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_a53be.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_a53be.'
         
       exitCode: 0
   -
@@ -335,9 +335,9 @@ events:
     message: |
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld\\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
-        ignore line: [Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-siuip2]
+        ignore line: [Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-d6i1oo]
         ignore line: []
-        ignore line: [Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_773e9 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE   -fdiagnostics-color=always   -v -o CMakeFiles/cmTC_773e9.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCXXCompilerABI.cpp"]
+        ignore line: [Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_a53be && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE   -fdiagnostics-color=always   -v -o CMakeFiles/cmTC_a53be.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCXXCompilerABI.cpp"]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE]
         ignore line: [Target: x86_64-w64-mingw32]
@@ -345,8 +345,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib]
         ignore line: [gcc version 13.1.0 (GCC) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_773e9.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_773e9.dir/']
-        ignore line: [ C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1plus.exe -quiet -v -iprefix C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -D_REENTRANT C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_773e9.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -fdiagnostics-color=always -o C:\\Users\\User\\AppData\\Local\\Temp\\ccxuw52r.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_a53be.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_a53be.dir/']
+        ignore line: [ C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1plus.exe -quiet -v -iprefix C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -D_REENTRANT C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_a53be.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -fdiagnostics-color=always -o C:\\Users\\User\\AppData\\Local\\Temp\\ccXR0t6L.s]
         ignore line: [GNU C++17 (GCC) version 13.1.0 (x86_64-w64-mingw32)]
         ignore line: [	compiled by GNU C version 13.1.0  GMP version 6.2.1  MPFR version 4.2.0-p4  MPC version 1.3.1  isl version none]
         ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
@@ -370,8 +370,8 @@ events:
         ignore line: [ C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: e75de627edc3c57e31324b930b15b056]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_773e9.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_773e9.dir/']
-        ignore line: [ as -v -o CMakeFiles/cmTC_773e9.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\User\\AppData\\Local\\Temp\\ccxuw52r.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_a53be.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_a53be.dir/']
+        ignore line: [ as -v -o CMakeFiles/cmTC_a53be.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\User\\AppData\\Local\\Temp\\ccXR0t6L.s]
         ignore line: [GNU assembler version 2.40 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.40]
         ignore line: [COMPILER_PATH=C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/]
         ignore line: [C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../libexec/gcc/]
@@ -381,8 +381,8 @@ events:
         ignore line: [C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/]
         ignore line: [C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_773e9.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_773e9.dir/CMakeCXXCompilerABI.cpp.']
-        ignore line: [[2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE  -v CMakeFiles/cmTC_773e9.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_773e9.exe -Wl --out-implib libcmTC_773e9.dll.a -Wl --major-image-version 0 --minor-image-version 0   && cd ."]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_a53be.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_a53be.dir/CMakeCXXCompilerABI.cpp.']
+        ignore line: [[2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE  -v CMakeFiles/cmTC_a53be.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_a53be.exe -Wl --out-implib libcmTC_a53be.dll.a -Wl --major-image-version 0 --minor-image-version 0   && cd ."]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE]
         ignore line: [COLLECT_LTO_WRAPPER=C:/Program\\ Files/JetBrains/CLion\\ 2023.2.2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/lto-wrapper.exe]
@@ -399,9 +399,9 @@ events:
         ignore line: [C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/]
         ignore line: [C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_773e9.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_773e9.']
-        ignore line: [ C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe -m i386pep -Bdynamic -o cmTC_773e9.exe C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. CMakeFiles/cmTC_773e9.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_773e9.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_773e9.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_773e9.']
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_a53be.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_a53be.']
+        ignore line: [ C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe -m i386pep -Bdynamic -o cmTC_a53be.exe C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. CMakeFiles/cmTC_a53be.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_a53be.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_a53be.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_a53be.']
         ignore line: []
         ignore line: []
         implicit libs: []
@@ -418,8 +418,8 @@ events:
     checks:
       - "Looking for shm_open in rt"
     directories:
-      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-j43o24"
-      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-j43o24"
+      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ijtds5"
+      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ijtds5"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -429,12 +429,12 @@ events:
       variable: "HAVE_LIB_RT"
       cached: true
       stdout: |
-        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-j43o24
+        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ijtds5
         
-        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_1b6fd && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe   -DCHECK_FUNCTION_EXISTS=shm_open -fdiagnostics-color=always -o CMakeFiles/cmTC_1b6fd.dir/CheckFunctionExists.c.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-j43o24/CheckFunctionExists.c"
-        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DCHECK_FUNCTION_EXISTS=shm_open  CMakeFiles/cmTC_1b6fd.dir/CheckFunctionExists.c.obj -o cmTC_1b6fd.exe -Wl,--out-implib,libcmTC_1b6fd.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lrt  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
-        FAILED: cmTC_1b6fd.exe 
-        cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DCHECK_FUNCTION_EXISTS=shm_open  CMakeFiles/cmTC_1b6fd.dir/CheckFunctionExists.c.obj -o cmTC_1b6fd.exe -Wl,--out-implib,libcmTC_1b6fd.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lrt  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_96e26 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe   -DCHECK_FUNCTION_EXISTS=shm_open -fdiagnostics-color=always -o CMakeFiles/cmTC_96e26.dir/CheckFunctionExists.c.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ijtds5/CheckFunctionExists.c"
+        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DCHECK_FUNCTION_EXISTS=shm_open  CMakeFiles/cmTC_96e26.dir/CheckFunctionExists.c.obj -o cmTC_96e26.exe -Wl,--out-implib,libcmTC_96e26.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lrt  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+        FAILED: cmTC_96e26.exe 
+        cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DCHECK_FUNCTION_EXISTS=shm_open  CMakeFiles/cmTC_96e26.dir/CheckFunctionExists.c.obj -o cmTC_96e26.exe -Wl,--out-implib,libcmTC_96e26.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lrt  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
         C:\\Program Files\\JetBrains\\CLion 2023.2.2\\bin\\mingw\\bin/ld.exe: cannot find -lrt: No such file or directory
         collect2.exe: error: ld returned 1 exit status
         ninja: build stopped: subcommand failed.
@@ -451,8 +451,8 @@ events:
     checks:
       - "Performing Test HAVE_CXX_FLAG_WALL"
     directories:
-      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-5w13zq"
-      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-5w13zq"
+      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-fo9ud6"
+      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-fo9ud6"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -462,10 +462,10 @@ events:
       variable: "HAVE_CXX_FLAG_WALL"
       cached: true
       stdout: |
-        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-5w13zq
+        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-fo9ud6
         
-        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_1b62e && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DHAVE_CXX_FLAG_WALL  -Wall -std=c++11 -fdiagnostics-color=always   -Wall -o CMakeFiles/cmTC_1b62e.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-5w13zq/src.cxx"
-        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -Wall  CMakeFiles/cmTC_1b62e.dir/src.cxx.obj -o cmTC_1b62e.exe -Wl,--out-implib,libcmTC_1b62e.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_970ee && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DHAVE_CXX_FLAG_WALL  -Wall -std=c++11 -fdiagnostics-color=always   -Wall -o CMakeFiles/cmTC_970ee.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-fo9ud6/src.cxx"
+        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -Wall  CMakeFiles/cmTC_970ee.dir/src.cxx.obj -o cmTC_970ee.exe -Wl,--out-implib,libcmTC_970ee.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
         
       exitCode: 0
   -
@@ -479,8 +479,8 @@ events:
     checks:
       - "Performing Test HAVE_CXX_FLAG_WEXTRA"
     directories:
-      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-2qyde7"
-      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-2qyde7"
+      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-t3jx0x"
+      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-t3jx0x"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "  -Wall"
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -490,10 +490,10 @@ events:
       variable: "HAVE_CXX_FLAG_WEXTRA"
       cached: true
       stdout: |
-        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-2qyde7
+        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-t3jx0x
         
-        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_f3669 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DHAVE_CXX_FLAG_WEXTRA  -Wall  -Wextra -std=c++11 -fdiagnostics-color=always   -Wextra -o CMakeFiles/cmTC_f3669.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-2qyde7/src.cxx"
-        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -Wall  -Wextra  CMakeFiles/cmTC_f3669.dir/src.cxx.obj -o cmTC_f3669.exe -Wl,--out-implib,libcmTC_f3669.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_d8d09 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DHAVE_CXX_FLAG_WEXTRA  -Wall  -Wextra -std=c++11 -fdiagnostics-color=always   -Wextra -o CMakeFiles/cmTC_d8d09.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-t3jx0x/src.cxx"
+        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -Wall  -Wextra  CMakeFiles/cmTC_d8d09.dir/src.cxx.obj -o cmTC_d8d09.exe -Wl,--out-implib,libcmTC_d8d09.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
         
       exitCode: 0
   -
@@ -507,8 +507,8 @@ events:
     checks:
       - "Performing Test HAVE_CXX_FLAG_WSHADOW"
     directories:
-      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-rpy7i7"
-      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-rpy7i7"
+      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-y0djjk"
+      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-y0djjk"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "  -Wall  -Wextra"
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -518,10 +518,10 @@ events:
       variable: "HAVE_CXX_FLAG_WSHADOW"
       cached: true
       stdout: |
-        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-rpy7i7
+        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-y0djjk
         
-        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_193de && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DHAVE_CXX_FLAG_WSHADOW  -Wall  -Wextra  -Wshadow -std=c++11 -fdiagnostics-color=always   -Wshadow -o CMakeFiles/cmTC_193de.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-rpy7i7/src.cxx"
-        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -Wall  -Wextra  -Wshadow  CMakeFiles/cmTC_193de.dir/src.cxx.obj -o cmTC_193de.exe -Wl,--out-implib,libcmTC_193de.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_858dd && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DHAVE_CXX_FLAG_WSHADOW  -Wall  -Wextra  -Wshadow -std=c++11 -fdiagnostics-color=always   -Wshadow -o CMakeFiles/cmTC_858dd.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-y0djjk/src.cxx"
+        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -Wall  -Wextra  -Wshadow  CMakeFiles/cmTC_858dd.dir/src.cxx.obj -o cmTC_858dd.exe -Wl,--out-implib,libcmTC_858dd.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
         
       exitCode: 0
   -
@@ -535,8 +535,8 @@ events:
     checks:
       - "Performing Test HAVE_CXX_FLAG_WFLOAT_EQUAL"
     directories:
-      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-9aj5qf"
-      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-9aj5qf"
+      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-edy4c5"
+      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-edy4c5"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "  -Wall  -Wextra  -Wshadow"
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -546,10 +546,10 @@ events:
       variable: "HAVE_CXX_FLAG_WFLOAT_EQUAL"
       cached: true
       stdout: |
-        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-9aj5qf
+        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-edy4c5
         
-        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_35a46 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DHAVE_CXX_FLAG_WFLOAT_EQUAL  -Wall  -Wextra  -Wshadow  -Wfloat-equal -std=c++11 -fdiagnostics-color=always   -Wfloat-equal -o CMakeFiles/cmTC_35a46.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-9aj5qf/src.cxx"
-        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -Wall  -Wextra  -Wshadow  -Wfloat-equal  CMakeFiles/cmTC_35a46.dir/src.cxx.obj -o cmTC_35a46.exe -Wl,--out-implib,libcmTC_35a46.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_2afbe && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DHAVE_CXX_FLAG_WFLOAT_EQUAL  -Wall  -Wextra  -Wshadow  -Wfloat-equal -std=c++11 -fdiagnostics-color=always   -Wfloat-equal -o CMakeFiles/cmTC_2afbe.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-edy4c5/src.cxx"
+        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -Wall  -Wextra  -Wshadow  -Wfloat-equal  CMakeFiles/cmTC_2afbe.dir/src.cxx.obj -o cmTC_2afbe.exe -Wl,--out-implib,libcmTC_2afbe.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
         
       exitCode: 0
   -
@@ -563,8 +563,8 @@ events:
     checks:
       - "Performing Test HAVE_CXX_FLAG_WOLD_STYLE_CAST"
     directories:
-      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-9hp1hq"
-      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-9hp1hq"
+      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-t13dt8"
+      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-t13dt8"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "  -Wall  -Wextra  -Wshadow  -Wfloat-equal"
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -574,10 +574,10 @@ events:
       variable: "HAVE_CXX_FLAG_WOLD_STYLE_CAST"
       cached: true
       stdout: |
-        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-9hp1hq
+        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-t13dt8
         
-        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_48f77 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DHAVE_CXX_FLAG_WOLD_STYLE_CAST  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast -std=c++11 -fdiagnostics-color=always   -Wold-style-cast -o CMakeFiles/cmTC_48f77.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-9hp1hq/src.cxx"
-        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  CMakeFiles/cmTC_48f77.dir/src.cxx.obj -o cmTC_48f77.exe -Wl,--out-implib,libcmTC_48f77.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_15526 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DHAVE_CXX_FLAG_WOLD_STYLE_CAST  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast -std=c++11 -fdiagnostics-color=always   -Wold-style-cast -o CMakeFiles/cmTC_15526.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-t13dt8/src.cxx"
+        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  CMakeFiles/cmTC_15526.dir/src.cxx.obj -o cmTC_15526.exe -Wl,--out-implib,libcmTC_15526.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
         
       exitCode: 0
   -
@@ -591,8 +591,8 @@ events:
     checks:
       - "Performing Test HAVE_CXX_FLAG_WERROR"
     directories:
-      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-43lmts"
-      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-43lmts"
+      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-htc6mh"
+      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-htc6mh"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast"
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -602,10 +602,10 @@ events:
       variable: "HAVE_CXX_FLAG_WERROR"
       cached: true
       stdout: |
-        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-43lmts
+        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-htc6mh
         
-        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_4a6c3 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DHAVE_CXX_FLAG_WERROR  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror -std=c++11 -fdiagnostics-color=always   -Werror -o CMakeFiles/cmTC_4a6c3.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-43lmts/src.cxx"
-        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  CMakeFiles/cmTC_4a6c3.dir/src.cxx.obj -o cmTC_4a6c3.exe -Wl,--out-implib,libcmTC_4a6c3.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_a021c && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DHAVE_CXX_FLAG_WERROR  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror -std=c++11 -fdiagnostics-color=always   -Werror -o CMakeFiles/cmTC_a021c.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-htc6mh/src.cxx"
+        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  CMakeFiles/cmTC_a021c.dir/src.cxx.obj -o cmTC_a021c.exe -Wl,--out-implib,libcmTC_a021c.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
         
       exitCode: 0
   -
@@ -619,8 +619,8 @@ events:
     checks:
       - "Performing Test HAVE_CXX_FLAG_PEDANTIC"
     directories:
-      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ie4wpm"
-      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ie4wpm"
+      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ioapmg"
+      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ioapmg"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror"
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -630,10 +630,10 @@ events:
       variable: "HAVE_CXX_FLAG_PEDANTIC"
       cached: true
       stdout: |
-        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ie4wpm
+        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ioapmg
         
-        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_9759b && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DHAVE_CXX_FLAG_PEDANTIC  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic -std=c++11 -fdiagnostics-color=always   -pedantic -o CMakeFiles/cmTC_9759b.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ie4wpm/src.cxx"
-        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  CMakeFiles/cmTC_9759b.dir/src.cxx.obj -o cmTC_9759b.exe -Wl,--out-implib,libcmTC_9759b.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_adc14 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DHAVE_CXX_FLAG_PEDANTIC  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic -std=c++11 -fdiagnostics-color=always   -pedantic -o CMakeFiles/cmTC_adc14.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ioapmg/src.cxx"
+        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  CMakeFiles/cmTC_adc14.dir/src.cxx.obj -o cmTC_adc14.exe -Wl,--out-implib,libcmTC_adc14.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
         
       exitCode: 0
   -
@@ -647,8 +647,8 @@ events:
     checks:
       - "Performing Test HAVE_CXX_FLAG_PEDANTIC_ERRORS"
     directories:
-      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-i8debw"
-      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-i8debw"
+      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-a54tm7"
+      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-a54tm7"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic"
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -658,10 +658,10 @@ events:
       variable: "HAVE_CXX_FLAG_PEDANTIC_ERRORS"
       cached: true
       stdout: |
-        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-i8debw
+        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-a54tm7
         
-        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_59240 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DHAVE_CXX_FLAG_PEDANTIC_ERRORS  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors -std=c++11 -fdiagnostics-color=always   -pedantic-errors -o CMakeFiles/cmTC_59240.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-i8debw/src.cxx"
-        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  CMakeFiles/cmTC_59240.dir/src.cxx.obj -o cmTC_59240.exe -Wl,--out-implib,libcmTC_59240.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_4c0f9 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DHAVE_CXX_FLAG_PEDANTIC_ERRORS  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors -std=c++11 -fdiagnostics-color=always   -pedantic-errors -o CMakeFiles/cmTC_4c0f9.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-a54tm7/src.cxx"
+        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  CMakeFiles/cmTC_4c0f9.dir/src.cxx.obj -o cmTC_4c0f9.exe -Wl,--out-implib,libcmTC_4c0f9.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
         
       exitCode: 0
   -
@@ -675,8 +675,8 @@ events:
     checks:
       - "Performing Test HAVE_CXX_FLAG_WSHORTEN_64_TO_32"
     directories:
-      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-7aqw99"
-      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-7aqw99"
+      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-zd0vsq"
+      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-zd0vsq"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors"
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -686,11 +686,11 @@ events:
       variable: "HAVE_CXX_FLAG_WSHORTEN_64_TO_32"
       cached: true
       stdout: |
-        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-7aqw99
+        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-zd0vsq
         
-        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_ab393 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DHAVE_CXX_FLAG_WSHORTEN_64_TO_32  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -Wshorten-64-to-32 -std=c++11 -fdiagnostics-color=always   -Wshorten-64-to-32 -o CMakeFiles/cmTC_ab393.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-7aqw99/src.cxx"
-        FAILED: CMakeFiles/cmTC_ab393.dir/src.cxx.obj 
-        C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DHAVE_CXX_FLAG_WSHORTEN_64_TO_32  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -Wshorten-64-to-32 -std=c++11 -fdiagnostics-color=always   -Wshorten-64-to-32 -o CMakeFiles/cmTC_ab393.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-7aqw99/src.cxx"
+        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_cd1b9 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DHAVE_CXX_FLAG_WSHORTEN_64_TO_32  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -Wshorten-64-to-32 -std=c++11 -fdiagnostics-color=always   -Wshorten-64-to-32 -o CMakeFiles/cmTC_cd1b9.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-zd0vsq/src.cxx"
+        FAILED: CMakeFiles/cmTC_cd1b9.dir/src.cxx.obj 
+        C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DHAVE_CXX_FLAG_WSHORTEN_64_TO_32  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -Wshorten-64-to-32 -std=c++11 -fdiagnostics-color=always   -Wshorten-64-to-32 -o CMakeFiles/cmTC_cd1b9.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-zd0vsq/src.cxx"
         G__~1.EXE: error: unrecognized command-line option '-Wshorten-64-to-32'
         G__~1.EXE: error: unrecognized command-line option '-Wshorten-64-to-32'
         ninja: build stopped: subcommand failed.
@@ -707,8 +707,8 @@ events:
     checks:
       - "Performing Test HAVE_CXX_FLAG_FSTRICT_ALIASING"
     directories:
-      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-oytuu2"
-      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-oytuu2"
+      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-yhm0ca"
+      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-yhm0ca"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors"
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -718,10 +718,10 @@ events:
       variable: "HAVE_CXX_FLAG_FSTRICT_ALIASING"
       cached: true
       stdout: |
-        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-oytuu2
+        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-yhm0ca
         
-        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_2123e && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DHAVE_CXX_FLAG_FSTRICT_ALIASING  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing -std=c++11 -fdiagnostics-color=always   -fstrict-aliasing -o CMakeFiles/cmTC_2123e.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-oytuu2/src.cxx"
-        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  CMakeFiles/cmTC_2123e.dir/src.cxx.obj -o cmTC_2123e.exe -Wl,--out-implib,libcmTC_2123e.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_8ab06 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DHAVE_CXX_FLAG_FSTRICT_ALIASING  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing -std=c++11 -fdiagnostics-color=always   -fstrict-aliasing -o CMakeFiles/cmTC_8ab06.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-yhm0ca/src.cxx"
+        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  CMakeFiles/cmTC_8ab06.dir/src.cxx.obj -o cmTC_8ab06.exe -Wl,--out-implib,libcmTC_8ab06.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
         
       exitCode: 0
   -
@@ -735,8 +735,8 @@ events:
     checks:
       - "Performing Test HAVE_CXX_FLAG_WNO_DEPRECATED_DECLARATIONS"
     directories:
-      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-oepwcs"
-      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-oepwcs"
+      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-1nfemq"
+      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-1nfemq"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing"
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -746,10 +746,10 @@ events:
       variable: "HAVE_CXX_FLAG_WNO_DEPRECATED_DECLARATIONS"
       cached: true
       stdout: |
-        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-oepwcs
+        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-1nfemq
         
-        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_60b79 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DHAVE_CXX_FLAG_WNO_DEPRECATED_DECLARATIONS  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations -std=c++11 -fdiagnostics-color=always   -Wno-deprecated-declarations -o CMakeFiles/cmTC_60b79.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-oepwcs/src.cxx"
-        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  CMakeFiles/cmTC_60b79.dir/src.cxx.obj -o cmTC_60b79.exe -Wl,--out-implib,libcmTC_60b79.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_e522c && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DHAVE_CXX_FLAG_WNO_DEPRECATED_DECLARATIONS  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations -std=c++11 -fdiagnostics-color=always   -Wno-deprecated-declarations -o CMakeFiles/cmTC_e522c.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-1nfemq/src.cxx"
+        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  CMakeFiles/cmTC_e522c.dir/src.cxx.obj -o cmTC_e522c.exe -Wl,--out-implib,libcmTC_e522c.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
         
       exitCode: 0
   -
@@ -763,8 +763,8 @@ events:
     checks:
       - "Performing Test HAVE_CXX_FLAG_WNO_DEPRECATED"
     directories:
-      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-a0gwc4"
-      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-a0gwc4"
+      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-6gqsek"
+      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-6gqsek"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations"
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -774,10 +774,10 @@ events:
       variable: "HAVE_CXX_FLAG_WNO_DEPRECATED"
       cached: true
       stdout: |
-        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-a0gwc4
+        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-6gqsek
         
-        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_0c037 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DHAVE_CXX_FLAG_WNO_DEPRECATED  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated -std=c++11 -fdiagnostics-color=always   -Wno-deprecated -o CMakeFiles/cmTC_0c037.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-a0gwc4/src.cxx"
-        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  CMakeFiles/cmTC_0c037.dir/src.cxx.obj -o cmTC_0c037.exe -Wl,--out-implib,libcmTC_0c037.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_5d084 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DHAVE_CXX_FLAG_WNO_DEPRECATED  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated -std=c++11 -fdiagnostics-color=always   -Wno-deprecated -o CMakeFiles/cmTC_5d084.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-6gqsek/src.cxx"
+        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  CMakeFiles/cmTC_5d084.dir/src.cxx.obj -o cmTC_5d084.exe -Wl,--out-implib,libcmTC_5d084.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
         
       exitCode: 0
   -
@@ -791,8 +791,8 @@ events:
     checks:
       - "Performing Test HAVE_CXX_FLAG_WSTRICT_ALIASING"
     directories:
-      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-v8kf05"
-      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-v8kf05"
+      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-14a3ux"
+      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-14a3ux"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated"
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -802,10 +802,10 @@ events:
       variable: "HAVE_CXX_FLAG_WSTRICT_ALIASING"
       cached: true
       stdout: |
-        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-v8kf05
+        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-14a3ux
         
-        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_6d473 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DHAVE_CXX_FLAG_WSTRICT_ALIASING  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing -std=c++11 -fdiagnostics-color=always   -Wstrict-aliasing -o CMakeFiles/cmTC_6d473.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-v8kf05/src.cxx"
-        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  CMakeFiles/cmTC_6d473.dir/src.cxx.obj -o cmTC_6d473.exe -Wl,--out-implib,libcmTC_6d473.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_6e0b3 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DHAVE_CXX_FLAG_WSTRICT_ALIASING  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing -std=c++11 -fdiagnostics-color=always   -Wstrict-aliasing -o CMakeFiles/cmTC_6e0b3.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-14a3ux/src.cxx"
+        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  CMakeFiles/cmTC_6e0b3.dir/src.cxx.obj -o cmTC_6e0b3.exe -Wl,--out-implib,libcmTC_6e0b3.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
         
       exitCode: 0
   -
@@ -819,8 +819,8 @@ events:
     checks:
       - "Performing Test HAVE_CXX_FLAG_WD654"
     directories:
-      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-fry3yd"
-      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-fry3yd"
+      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-3zb0kt"
+      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-3zb0kt"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing"
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -830,11 +830,11 @@ events:
       variable: "HAVE_CXX_FLAG_WD654"
       cached: true
       stdout: |
-        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-fry3yd
+        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-3zb0kt
         
-        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_f9899 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DHAVE_CXX_FLAG_WD654  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -wd654 -std=c++11 -fdiagnostics-color=always   -wd654 -o CMakeFiles/cmTC_f9899.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-fry3yd/src.cxx"
-        FAILED: CMakeFiles/cmTC_f9899.dir/src.cxx.obj 
-        C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DHAVE_CXX_FLAG_WD654  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -wd654 -std=c++11 -fdiagnostics-color=always   -wd654 -o CMakeFiles/cmTC_f9899.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-fry3yd/src.cxx"
+        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_e1fa1 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DHAVE_CXX_FLAG_WD654  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -wd654 -std=c++11 -fdiagnostics-color=always   -wd654 -o CMakeFiles/cmTC_e1fa1.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-3zb0kt/src.cxx"
+        FAILED: CMakeFiles/cmTC_e1fa1.dir/src.cxx.obj 
+        C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DHAVE_CXX_FLAG_WD654  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -wd654 -std=c++11 -fdiagnostics-color=always   -wd654 -o CMakeFiles/cmTC_e1fa1.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-3zb0kt/src.cxx"
         G__~1.EXE: error: unrecognized command-line option '-wd654'
         G__~1.EXE: error: unrecognized command-line option '-wd654'
         ninja: build stopped: subcommand failed.
@@ -851,8 +851,8 @@ events:
     checks:
       - "Performing Test HAVE_CXX_FLAG_WTHREAD_SAFETY"
     directories:
-      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-pwnbyb"
-      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-pwnbyb"
+      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-dh012d"
+      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-dh012d"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing"
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -862,11 +862,11 @@ events:
       variable: "HAVE_CXX_FLAG_WTHREAD_SAFETY"
       cached: true
       stdout: |
-        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-pwnbyb
+        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-dh012d
         
-        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_9c8ce && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DHAVE_CXX_FLAG_WTHREAD_SAFETY  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -Wthread-safety -std=c++11 -fdiagnostics-color=always   -Wthread-safety -o CMakeFiles/cmTC_9c8ce.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-pwnbyb/src.cxx"
-        FAILED: CMakeFiles/cmTC_9c8ce.dir/src.cxx.obj 
-        C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DHAVE_CXX_FLAG_WTHREAD_SAFETY  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -Wthread-safety -std=c++11 -fdiagnostics-color=always   -Wthread-safety -o CMakeFiles/cmTC_9c8ce.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-pwnbyb/src.cxx"
+        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_93f33 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DHAVE_CXX_FLAG_WTHREAD_SAFETY  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -Wthread-safety -std=c++11 -fdiagnostics-color=always   -Wthread-safety -o CMakeFiles/cmTC_93f33.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-dh012d/src.cxx"
+        FAILED: CMakeFiles/cmTC_93f33.dir/src.cxx.obj 
+        C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DHAVE_CXX_FLAG_WTHREAD_SAFETY  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -Wthread-safety -std=c++11 -fdiagnostics-color=always   -Wthread-safety -o CMakeFiles/cmTC_93f33.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-dh012d/src.cxx"
         G__~1.EXE: error: unrecognized command-line option '-Wthread-safety'
         G__~1.EXE: error: unrecognized command-line option '-Wthread-safety'
         ninja: build stopped: subcommand failed.
@@ -883,8 +883,8 @@ events:
     checks:
       - "Performing Test HAVE_CXX_FLAG_COVERAGE"
     directories:
-      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-vbvwy4"
-      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-vbvwy4"
+      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-kevmg7"
+      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-kevmg7"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing"
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -894,10 +894,10 @@ events:
       variable: "HAVE_CXX_FLAG_COVERAGE"
       cached: true
       stdout: |
-        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-vbvwy4
+        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-kevmg7
         
-        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_3de9e && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DHAVE_CXX_FLAG_COVERAGE  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  --coverage -std=c++11 -fdiagnostics-color=always   --coverage -o CMakeFiles/cmTC_3de9e.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-vbvwy4/src.cxx"
-        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  --coverage  CMakeFiles/cmTC_3de9e.dir/src.cxx.obj -o cmTC_3de9e.exe -Wl,--out-implib,libcmTC_3de9e.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_43ac4 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DHAVE_CXX_FLAG_COVERAGE  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  --coverage -std=c++11 -fdiagnostics-color=always   --coverage -o CMakeFiles/cmTC_43ac4.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-kevmg7/src.cxx"
+        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  --coverage  CMakeFiles/cmTC_43ac4.dir/src.cxx.obj -o cmTC_43ac4.exe -Wl,--out-implib,libcmTC_43ac4.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
         
       exitCode: 0
   -
@@ -919,8 +919,8 @@ events:
       stdout: |
         Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeTmp
         
-        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_074a5 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -std=c++11 -fdiagnostics-color=always -o CMakeFiles/cmTC_074a5.dir/std_regex.cpp.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/lib/benchmark/cmake/std_regex.cpp"
-        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  CMakeFiles/cmTC_074a5.dir/std_regex.cpp.obj -o cmTC_074a5.exe -Wl,--out-implib,libcmTC_074a5.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_f3791 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -std=c++11 -fdiagnostics-color=always -o CMakeFiles/cmTC_f3791.dir/std_regex.cpp.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/lib/benchmark/cmake/std_regex.cpp"
+        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  CMakeFiles/cmTC_f3791.dir/std_regex.cpp.obj -o cmTC_f3791.exe -Wl,--out-implib,libcmTC_f3791.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
         
       exitCode: 0
     runResult:
@@ -947,9 +947,9 @@ events:
       stdout: |
         Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeTmp
         
-        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_c6f1a && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -std=c++11 -fdiagnostics-color=always -o CMakeFiles/cmTC_c6f1a.dir/gnu_posix_regex.cpp.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/lib/benchmark/cmake/gnu_posix_regex.cpp"
-        FAILED: CMakeFiles/cmTC_c6f1a.dir/gnu_posix_regex.cpp.obj 
-        C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -std=c++11 -fdiagnostics-color=always -o CMakeFiles/cmTC_c6f1a.dir/gnu_posix_regex.cpp.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/lib/benchmark/cmake/gnu_posix_regex.cpp"
+        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_c8fe2 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -std=c++11 -fdiagnostics-color=always -o CMakeFiles/cmTC_c8fe2.dir/gnu_posix_regex.cpp.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/lib/benchmark/cmake/gnu_posix_regex.cpp"
+        FAILED: CMakeFiles/cmTC_c8fe2.dir/gnu_posix_regex.cpp.obj 
+        C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -std=c++11 -fdiagnostics-color=always -o CMakeFiles/cmTC_c8fe2.dir/gnu_posix_regex.cpp.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/lib/benchmark/cmake/gnu_posix_regex.cpp"
         C:/Users/User/Desktop/FEUP/AED/TP 5/lib/benchmark/cmake/gnu_posix_regex.cpp:1:10: fatal error: gnuregex.h: No such file or directory
             1 | #include <gnuregex.h>
               |          ^~~~~~~~~~~~
@@ -979,9 +979,9 @@ events:
       stdout: |
         Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeTmp
         
-        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_e1484 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -std=c++11 -fdiagnostics-color=always -o CMakeFiles/cmTC_e1484.dir/posix_regex.cpp.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/lib/benchmark/cmake/posix_regex.cpp"
-        FAILED: CMakeFiles/cmTC_e1484.dir/posix_regex.cpp.obj 
-        C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -std=c++11 -fdiagnostics-color=always -o CMakeFiles/cmTC_e1484.dir/posix_regex.cpp.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/lib/benchmark/cmake/posix_regex.cpp"
+        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_6094d && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -std=c++11 -fdiagnostics-color=always -o CMakeFiles/cmTC_6094d.dir/posix_regex.cpp.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/lib/benchmark/cmake/posix_regex.cpp"
+        FAILED: CMakeFiles/cmTC_6094d.dir/posix_regex.cpp.obj 
+        C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -std=c++11 -fdiagnostics-color=always -o CMakeFiles/cmTC_6094d.dir/posix_regex.cpp.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/lib/benchmark/cmake/posix_regex.cpp"
         C:/Users/User/Desktop/FEUP/AED/TP 5/lib/benchmark/cmake/posix_regex.cpp:1:10: fatal error: regex.h: No such file or directory
             1 | #include <regex.h>
               |          ^~~~~~~~~
@@ -1011,8 +1011,8 @@ events:
       stdout: |
         Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeTmp
         
-        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_c1593 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -std=c++11 -fdiagnostics-color=always -o CMakeFiles/cmTC_c1593.dir/steady_clock.cpp.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/lib/benchmark/cmake/steady_clock.cpp"
-        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  CMakeFiles/cmTC_c1593.dir/steady_clock.cpp.obj -o cmTC_c1593.exe -Wl,--out-implib,libcmTC_c1593.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_7d674 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -std=c++11 -fdiagnostics-color=always -o CMakeFiles/cmTC_7d674.dir/steady_clock.cpp.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/lib/benchmark/cmake/steady_clock.cpp"
+        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  CMakeFiles/cmTC_7d674.dir/steady_clock.cpp.obj -o cmTC_7d674.exe -Wl,--out-implib,libcmTC_7d674.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
         
       exitCode: 0
     runResult:
@@ -1031,8 +1031,8 @@ events:
     checks:
       - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
     directories:
-      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-crbp7y"
-      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-crbp7y"
+      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-05so5m"
+      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-05so5m"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -1042,10 +1042,10 @@ events:
       variable: "CMAKE_HAVE_LIBC_PTHREAD"
       cached: true
       stdout: |
-        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-crbp7y
+        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-05so5m
         
-        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_e9721 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DCMAKE_HAVE_LIBC_PTHREAD  -fdiagnostics-color=always -o CMakeFiles/cmTC_e9721.dir/src.c.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-crbp7y/src.c"
-        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe   CMakeFiles/cmTC_e9721.dir/src.c.obj -o cmTC_e9721.exe -Wl,--out-implib,libcmTC_e9721.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_eedd6 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -DCMAKE_HAVE_LIBC_PTHREAD  -fdiagnostics-color=always -o CMakeFiles/cmTC_eedd6.dir/src.c.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-05so5m/src.c"
+        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe   CMakeFiles/cmTC_eedd6.dir/src.c.obj -o cmTC_eedd6.exe -Wl,--out-implib,libcmTC_eedd6.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
         
       exitCode: 0
   -
@@ -1067,9 +1067,9 @@ events:
       stdout: |
         Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeTmp
         
-        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_02b6a && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -std=c++11 -fdiagnostics-color=always -o CMakeFiles/cmTC_02b6a.dir/pthread_affinity.cpp.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/lib/benchmark/cmake/pthread_affinity.cpp"
-        FAILED: CMakeFiles/cmTC_02b6a.dir/pthread_affinity.cpp.obj 
-        C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -std=c++11 -fdiagnostics-color=always -o CMakeFiles/cmTC_02b6a.dir/pthread_affinity.cpp.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/lib/benchmark/cmake/pthread_affinity.cpp"
+        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_7fe0e && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -std=c++11 -fdiagnostics-color=always -o CMakeFiles/cmTC_7fe0e.dir/pthread_affinity.cpp.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/lib/benchmark/cmake/pthread_affinity.cpp"
+        FAILED: CMakeFiles/cmTC_7fe0e.dir/pthread_affinity.cpp.obj 
+        C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -std=c++11 -fdiagnostics-color=always -o CMakeFiles/cmTC_7fe0e.dir/pthread_affinity.cpp.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/lib/benchmark/cmake/pthread_affinity.cpp"
         C:/Users/User/Desktop/FEUP/AED/TP 5/lib/benchmark/cmake/pthread_affinity.cpp: In function 'int main()':
         C:/Users/User/Desktop/FEUP/AED/TP 5/lib/benchmark/cmake/pthread_affinity.cpp:3:3: error: 'cpu_set_t' was not declared in this scope
             3 |   cpu_set_t set;
@@ -1114,8 +1114,8 @@ events:
     checks:
       - "Performing Test BENCHMARK_HAS_O3_FLAG"
     directories:
-      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-7y091a"
-      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-7y091a"
+      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-1flhf5"
+      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-1flhf5"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing"
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -1125,10 +1125,10 @@ events:
       variable: "BENCHMARK_HAS_O3_FLAG"
       cached: true
       stdout: |
-        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-7y091a
+        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-1flhf5
         
-        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_41a37 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DBENCHMARK_HAS_O3_FLAG  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -std=c++11 -fdiagnostics-color=always   -O3 -o CMakeFiles/cmTC_41a37.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-7y091a/src.cxx"
-        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  CMakeFiles/cmTC_41a37.dir/src.cxx.obj -o cmTC_41a37.exe -Wl,--out-implib,libcmTC_41a37.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_642b1 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DBENCHMARK_HAS_O3_FLAG  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -std=c++11 -fdiagnostics-color=always   -O3 -o CMakeFiles/cmTC_642b1.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-1flhf5/src.cxx"
+        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  CMakeFiles/cmTC_642b1.dir/src.cxx.obj -o cmTC_642b1.exe -Wl,--out-implib,libcmTC_642b1.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
         
       exitCode: 0
   -
@@ -1141,8 +1141,8 @@ events:
     checks:
       - "Performing Test BENCHMARK_HAS_DEPRECATED_DECLARATIONS_FLAG"
     directories:
-      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-t4tzqb"
-      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-t4tzqb"
+      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-910li2"
+      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-910li2"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing"
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -1152,10 +1152,10 @@ events:
       variable: "BENCHMARK_HAS_DEPRECATED_DECLARATIONS_FLAG"
       cached: true
       stdout: |
-        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-t4tzqb
+        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-910li2
         
-        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_5803f && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DBENCHMARK_HAS_DEPRECATED_DECLARATIONS_FLAG  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -std=c++11 -fdiagnostics-color=always   -Werror=deprecated-declarations -o CMakeFiles/cmTC_5803f.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-t4tzqb/src.cxx"
-        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  CMakeFiles/cmTC_5803f.dir/src.cxx.obj -o cmTC_5803f.exe -Wl,--out-implib,libcmTC_5803f.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_85e27 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DBENCHMARK_HAS_DEPRECATED_DECLARATIONS_FLAG  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -std=c++11 -fdiagnostics-color=always   -Werror=deprecated-declarations -o CMakeFiles/cmTC_85e27.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-910li2/src.cxx"
+        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  CMakeFiles/cmTC_85e27.dir/src.cxx.obj -o cmTC_85e27.exe -Wl,--out-implib,libcmTC_85e27.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
         
       exitCode: 0
   -
@@ -1168,8 +1168,8 @@ events:
     checks:
       - "Performing Test BENCHMARK_HAS_WNO_ODR"
     directories:
-      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-z1wl8f"
-      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-z1wl8f"
+      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-9nj9xj"
+      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-9nj9xj"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing"
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -1179,10 +1179,10 @@ events:
       variable: "BENCHMARK_HAS_WNO_ODR"
       cached: true
       stdout: |
-        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-z1wl8f
+        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-9nj9xj
         
-        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_0c205 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DBENCHMARK_HAS_WNO_ODR  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -std=c++11 -fdiagnostics-color=always   -Wno-odr -o CMakeFiles/cmTC_0c205.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-z1wl8f/src.cxx"
-        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  CMakeFiles/cmTC_0c205.dir/src.cxx.obj -o cmTC_0c205.exe -Wl,--out-implib,libcmTC_0c205.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_cf757 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DBENCHMARK_HAS_WNO_ODR  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -std=c++11 -fdiagnostics-color=always   -Wno-odr -o CMakeFiles/cmTC_cf757.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-9nj9xj/src.cxx"
+        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  CMakeFiles/cmTC_cf757.dir/src.cxx.obj -o cmTC_cf757.exe -Wl,--out-implib,libcmTC_cf757.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
         
       exitCode: 0
   -
@@ -1195,8 +1195,8 @@ events:
     checks:
       - "Performing Test BENCHMARK_HAS_WNO_LTO_TYPE_MISMATCH"
     directories:
-      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-l9dw77"
-      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-l9dw77"
+      source: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-1fi300"
+      binary: "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-1fi300"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing"
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -1206,10 +1206,10 @@ events:
       variable: "BENCHMARK_HAS_WNO_LTO_TYPE_MISMATCH"
       cached: true
       stdout: |
-        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-l9dw77
+        Change Dir: C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-1fi300
         
-        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_339dc && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DBENCHMARK_HAS_WNO_LTO_TYPE_MISMATCH  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -std=c++11 -fdiagnostics-color=always   -Wno-lto-type-mismatch -o CMakeFiles/cmTC_339dc.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-l9dw77/src.cxx"
-        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  CMakeFiles/cmTC_339dc.dir/src.cxx.obj -o cmTC_339dc.exe -Wl,--out-implib,libcmTC_339dc.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+        Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe -v cmTC_c2781 && [1/2] C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -DBENCHMARK_HAS_WNO_LTO_TYPE_MISMATCH  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -std=c++11 -fdiagnostics-color=always   -Wno-lto-type-mismatch -o CMakeFiles/cmTC_c2781.dir/src.cxx.obj -c "C:/Users/User/Desktop/FEUP/AED/TP 5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-1fi300/src.cxx"
+        [2/2] cmd.exe /C "cd . && C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  CMakeFiles/cmTC_c2781.dir/src.cxx.obj -o cmTC_c2781.exe -Wl,--out-implib,libcmTC_c2781.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
         
       exitCode: 0
 ...

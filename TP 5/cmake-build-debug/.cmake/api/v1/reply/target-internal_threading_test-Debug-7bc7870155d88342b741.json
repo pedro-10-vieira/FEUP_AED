@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "lib/benchmark/test/user_counters_thousands_test.exe"
+			"path" : "lib/benchmark/test/internal_threading_test.exe"
 		},
 		{
-			"path" : "lib/benchmark/test/user_counters_thousands_test.pdb"
+			"path" : "lib/benchmark/test/internal_threading_test.pdb"
 		}
 	],
 	"backtrace" : 2,
@@ -36,7 +36,7 @@
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 179,
+				"line" : 167,
 				"parent" : 0
 			},
 			{
@@ -194,14 +194,14 @@
 		},
 		{
 			"backtrace" : 3,
-			"id" : "benchmark_main::@263d5672d1776d77af40"
+			"id" : "benchmark::@263d5672d1776d77af40"
 		},
 		{
 			"backtrace" : 3,
-			"id" : "benchmark::@263d5672d1776d77af40"
+			"id" : "benchmark_main::@263d5672d1776d77af40"
 		}
 	],
-	"id" : "user_counters_thousands_test::@ffc329ffbc60a487a66f",
+	"id" : "internal_threading_test::@ffc329ffbc60a487a66f",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -241,8 +241,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "user_counters_thousands_test",
-	"nameOnDisk" : "user_counters_thousands_test.exe",
+	"name" : "internal_threading_test",
+	"nameOnDisk" : "internal_threading_test.exe",
 	"paths" : 
 	{
 		"build" : "lib/benchmark/test",
@@ -270,7 +270,7 @@
 		{
 			"backtrace" : 2,
 			"compileGroupIndex" : 0,
-			"path" : "lib/benchmark/test/user_counters_thousands_test.cc",
+			"path" : "lib/benchmark/test/internal_threading_test.cc",
 			"sourceGroupIndex" : 0
 		},
 		{

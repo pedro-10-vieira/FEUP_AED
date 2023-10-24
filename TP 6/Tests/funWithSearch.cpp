@@ -19,7 +19,14 @@ int FunWithSearch::searchLinear(const vector<int> &v, int key) {
 //=============================================================================
 // TODO
 int FunWithSearch::searchBinary(const vector<int> & v, int key) {
-    return 0;
+    int low = 0, high = (int)v.size() - 1;
+    while (low <= high) {
+        int middle = low + (high - low) / 2;
+        if (key < v[middle]) high = middle - 1;
+        else if (key > v[middle]) low = middle + 1;
+        else return middle; // key found at index middle
+    }
+    return -1; // key not found
 }
 
 //=============================================================================
@@ -27,7 +34,15 @@ int FunWithSearch::searchBinary(const vector<int> & v, int key) {
 //=============================================================================
 // TODO
 int FunWithSearch::facingSun(const vector<int> & values) {
-    return 0;
+    int max = values[0];
+    int count = 1;
+    for (int i : values) {
+        if (i > max) {
+            max = i;
+            count++;
+        }
+    }
+    return count;
 }
 
 

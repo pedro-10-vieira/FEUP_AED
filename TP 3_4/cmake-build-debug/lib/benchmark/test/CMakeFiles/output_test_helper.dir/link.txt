@@ -1,0 +1,2 @@
+C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\ar.exe qc liboutput_test_helper.a CMakeFiles/output_test_helper.dir/output_test_helper.cc.obj
+C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\ranlib.exe liboutput_test_helper.a

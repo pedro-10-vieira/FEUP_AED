@@ -1,6 +1,6 @@
 # CMake generated Testfile for 
-# Source directory: C:/Users/User/Desktop/FEUP/AED/TP 3/lib/googletest/googlemock
-# Build directory: C:/Users/User/Desktop/FEUP/AED/TP 3/cmake-build-debug/lib/googletest/googlemock
+# Source directory: C:/Users/User/Desktop/FEUP/AED/TP 3_4/lib/googletest/googlemock
+# Build directory: C:/Users/User/Desktop/FEUP/AED/TP 3_4/cmake-build-debug/lib/googletest/googlemock
 # 
 # This file includes the relevant testing commands required for 
 # testing this directory and lists subdirectories to be tested as well.

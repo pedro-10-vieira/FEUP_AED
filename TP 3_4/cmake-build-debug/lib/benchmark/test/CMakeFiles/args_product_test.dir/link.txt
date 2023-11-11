@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\args_product_test.dir/objects.a
+C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\ar.exe qc CMakeFiles\args_product_test.dir/objects.a @CMakeFiles\args_product_test.dir\objects1.rsp
+C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing -g -Wl,--whole-archive CMakeFiles\args_product_test.dir/objects.a -Wl,--no-whole-archive -o args_product_test.exe -Wl,--out-implib,libargs_product_test.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\args_product_test.dir\linkLibs.rsp

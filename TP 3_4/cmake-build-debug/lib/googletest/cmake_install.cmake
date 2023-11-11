@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/User/Desktop/FEUP/AED/TP 3/lib/googletest
+# Install script for directory: C:/Users/User/Desktop/FEUP/AED/TP 3_4/lib/googletest
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/User/Desktop/FEUP/AED/TP 3/cmake-build-debug/lib/googletest/googlemock/cmake_install.cmake")
+  include("C:/Users/User/Desktop/FEUP/AED/TP 3_4/cmake-build-debug/lib/googletest/googlemock/cmake_install.cmake")
 
 endif()
 

@@ -8,7 +8,18 @@ FunSortProblem::FunSortProblem() {}
 //=============================================================================
 // TODO
 int FunSortProblem::minDifference(const vector<unsigned> &values, unsigned nc) {
-    return 0;
+    if (values.size() < nc) {
+        return -1;
+    }
+    vector<unsigned> chocolates = values;
+    sort(chocolates.begin(), chocolates.end());
+    int min = INT_MAX;
+    for (int i = 0; i <= chocolates.size() - nc; i++) {
+        if (chocolates[i + nc - 1] - chocolates[i] < min) {
+            min = chocolates[i + nc - 1] - chocolates[i];
+        }
+    }
+    return min;
 }
 
 

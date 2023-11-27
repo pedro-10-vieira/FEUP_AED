@@ -130,7 +130,7 @@ TEST(test_8, nutsBolts){
 //=============================================================================
 // BENCHMARK
 //=============================================================================
-static void BM_SearchLinear(benchmark::State& state) {
+/*static void BM_SearchLinear(benchmark::State& state) {
     vector<int> v(state.range(0));
     for (auto _ : state) {
         state.PauseTiming();

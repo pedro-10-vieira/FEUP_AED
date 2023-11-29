@@ -29,7 +29,7 @@ HeapBox PackagingMachine::getBoxes() const {
 // TODO
 unsigned PackagingMachine::loadObjects(vector<Object> &objs) {
     auto it = objs.begin();
-	while (it != objs.end()) {
+    while (it != objs.end()) {
         if (it->getWeight() <= boxCapacity) {
             objects.push(*it);
             it = objs.erase(it);
@@ -76,7 +76,7 @@ unsigned PackagingMachine::packObjects() {
         Object it = objects.top();
         Box update = searchBox(it);
         if (update.getSize() == 0) {
-            Box box = Box();
+            Box box;
             box.addObject(it);
             boxes.push(box);
             count++;
@@ -108,5 +108,5 @@ stack<Object> PackagingMachine::boxWithMoreObjects() const {
         }
         clone.pop();
     }
-	return the_one.getObjects();
+    return the_one.getObjects();
 }

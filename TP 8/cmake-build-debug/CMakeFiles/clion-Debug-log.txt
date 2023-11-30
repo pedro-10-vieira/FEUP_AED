@@ -1,0 +1,75 @@
+"C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\Pedro Vieira\Desktop\FEUP\AED\TP 8" -B "C:\Users\Pedro Vieira\Desktop\FEUP\AED\TP 8\cmake-build-debug"
+-- The C compiler identification is GNU 13.1.0
+-- The CXX compiler identification is GNU 13.1.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Could NOT find Python3 (missing: Python3_EXECUTABLE Interpreter) 
+-- Found Git: C:/Program Files/Git/cmd/git.exe (found version "2.43.0.windows.1") 
+-- git version: v0.0.0-dirty normalized to 0.0.0
+-- Google Benchmark version: 1.8.3
+-- Looking for shm_open in rt
+-- Looking for shm_open in rt - not found
+-- Performing Test HAVE_CXX_FLAG_WALL
+-- Performing Test HAVE_CXX_FLAG_WALL - Success
+-- Performing Test HAVE_CXX_FLAG_WEXTRA
+-- Performing Test HAVE_CXX_FLAG_WEXTRA - Success
+-- Performing Test HAVE_CXX_FLAG_WSHADOW
+-- Performing Test HAVE_CXX_FLAG_WSHADOW - Success
+-- Performing Test HAVE_CXX_FLAG_WFLOAT_EQUAL
+-- Performing Test HAVE_CXX_FLAG_WFLOAT_EQUAL - Success
+-- Performing Test HAVE_CXX_FLAG_WOLD_STYLE_CAST
+-- Performing Test HAVE_CXX_FLAG_WOLD_STYLE_CAST - Success
+-- Performing Test HAVE_CXX_FLAG_WERROR
+-- Performing Test HAVE_CXX_FLAG_WERROR - Success
+-- Performing Test HAVE_CXX_FLAG_PEDANTIC
+-- Performing Test HAVE_CXX_FLAG_PEDANTIC - Success
+-- Performing Test HAVE_CXX_FLAG_PEDANTIC_ERRORS
+-- Performing Test HAVE_CXX_FLAG_PEDANTIC_ERRORS - Success
+-- Performing Test HAVE_CXX_FLAG_WSHORTEN_64_TO_32
+-- Performing Test HAVE_CXX_FLAG_WSHORTEN_64_TO_32 - Failed
+-- Performing Test HAVE_CXX_FLAG_FSTRICT_ALIASING
+-- Performing Test HAVE_CXX_FLAG_FSTRICT_ALIASING - Success
+-- Performing Test HAVE_CXX_FLAG_WNO_DEPRECATED_DECLARATIONS
+-- Performing Test HAVE_CXX_FLAG_WNO_DEPRECATED_DECLARATIONS - Success
+-- Performing Test HAVE_CXX_FLAG_WNO_DEPRECATED
+-- Performing Test HAVE_CXX_FLAG_WNO_DEPRECATED - Success
+-- Performing Test HAVE_CXX_FLAG_WSTRICT_ALIASING
+-- Performing Test HAVE_CXX_FLAG_WSTRICT_ALIASING - Success
+-- Performing Test HAVE_CXX_FLAG_WD654
+-- Performing Test HAVE_CXX_FLAG_WD654 - Failed
+-- Performing Test HAVE_CXX_FLAG_WTHREAD_SAFETY
+-- Performing Test HAVE_CXX_FLAG_WTHREAD_SAFETY - Failed
+-- Performing Test HAVE_CXX_FLAG_COVERAGE
+-- Performing Test HAVE_CXX_FLAG_COVERAGE - Success
+-- Compiling and running to test HAVE_STD_REGEX
+-- Performing Test HAVE_STD_REGEX -- success
+-- Compiling and running to test HAVE_GNU_POSIX_REGEX
+-- Performing Test HAVE_GNU_POSIX_REGEX -- failed to compile
+-- Compiling and running to test HAVE_POSIX_REGEX
+-- Performing Test HAVE_POSIX_REGEX -- failed to compile
+-- Compiling and running to test HAVE_STEADY_CLOCK
+-- Performing Test HAVE_STEADY_CLOCK -- success
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE  
+-- Compiling and running to test HAVE_PTHREAD_AFFINITY
+-- Performing Test HAVE_PTHREAD_AFFINITY -- failed to compile
+-- Performing Test BENCHMARK_HAS_O3_FLAG
+-- Performing Test BENCHMARK_HAS_O3_FLAG - Success
+-- Performing Test BENCHMARK_HAS_DEPRECATED_DECLARATIONS_FLAG
+-- Performing Test BENCHMARK_HAS_DEPRECATED_DECLARATIONS_FLAG - Success
+-- Performing Test BENCHMARK_HAS_WNO_ODR
+-- Performing Test BENCHMARK_HAS_WNO_ODR - Success
+-- Performing Test BENCHMARK_HAS_WNO_LTO_TYPE_MISMATCH
+-- Performing Test BENCHMARK_HAS_WNO_LTO_TYPE_MISMATCH - Success
+-- Configuring done (16.8s)
+-- Generating done (0.1s)
+-- Build files have been written to: C:/Users/Pedro Vieira/Desktop/FEUP/AED/TP 8/cmake-build-debug

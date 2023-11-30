@@ -25,13 +25,19 @@ struct betHash
     // Hash function
     // TODO
 	int operator() (const Bet& b) const {
+        int numbersHash = 0;
+        for (int i : b.getNumbers()) {
+            numbersHash ^= hash<int>{}(i);
+        }
+        int playerHash = hash<string>{}(b.getPlayer());
+        return numbersHash ^ (playerHash << 1);
         return 0;
 	}
 
     // Equality function
     // TODO
 	bool operator() (const Bet& b1, const Bet& b2) const {
-        return true;
+        return b1.getNumbers() == b2.getNumbers();
 	}
 };
 

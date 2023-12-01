@@ -241,7 +241,7 @@ bool Vertex<T>::removeEdgeTo(Vertex<T> *d) {
             return true;
         }
     }
-	return false;
+    return false;
 }
 
 //=============================================================================
@@ -255,8 +255,6 @@ bool Vertex<T>::removeEdgeTo(Vertex<T> *d) {
 //TODO
 template <class T>
 bool Graph<T>::removeVertex(const T &in) {
-    // HINT: use an iterator to scan the "vertexSet" vector and then erase the vertex.
-    // HINT: take advantage of "removeEdgeTo" to remove incoming edges.
     for (auto it = vertexSet.begin(); it != vertexSet.end(); it++) {
         if (*it == findVertex(in)) {
             vertexSet.erase(it);
@@ -267,7 +265,7 @@ bool Graph<T>::removeVertex(const T &in) {
             return true;
         }
     }
-	return false;
+    return false;
 }
 
 #endif /* GRAPH_H_ */

@@ -323,26 +323,24 @@ vector<T> Graph<T>::dfs(const T & source) const {
 // TODO
 template <class T>
 vector<T> Graph<T>::bfs(const T & source) const {
-    // HINT: Use the flag "visited".
-    // HINT: Use the "queue" class to temporarily store the vertices.
-	vector<T> res;
-    res.push_back(source);
     for (auto vt : vertexSet) {
         vt->visited = false;
     }
-    queue<Vertex<T>> v_q;
     auto it = findVertex(source);
+    vector<T> res;
+    queue<Vertex<T>> v_q;
     v_q.push(*it);
     it->visited = true;
     while (!(v_q.empty())) {
-        for (Edge<T>& edge : v_q.front().adj) {
+        Vertex<T> actual = v_q.front();
+        res.push_back(actual.getInfo());
+        v_q.pop();
+        for (Edge<T>& edge : actual.adj) {
             if (edge.dest->visited == false) {
                 v_q.push(*edge.dest);
                 edge.dest->visited = true;
-                res.push_back(edge.dest->info);
             }
         }
-        v_q.pop();
     }
     return res;
 }

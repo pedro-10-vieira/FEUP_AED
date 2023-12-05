@@ -1,21 +1,11 @@
 # ninja log v5
-11	424	7228105324392012	CMakeFiles/aed2324_p10.dir/Tests/funWithBFS.cpp.obj	5f34b0950db0ebd5
+7	659	7234260950154285	CMakeFiles/aed2324_p10.dir/Tests/funWithBFS.cpp.obj	5f34b0950db0ebd5
 1	1233	7227985830204361	CMakeFiles/aed2324_p10.dir/main.cpp.obj	6325a0a3f6f1f952
-4	421	7228105324362013	CMakeFiles/aed2324_p10.dir/Tests/funWithDFS.cpp.obj	784c34daeb6cf34
-5	2055	7228105207776666	CMakeFiles/aed2324_p10.dir/Tests/tests.cpp.obj	2ae49147fef49e59
+5	610	7234695138346871	CMakeFiles/aed2324_p10.dir/Tests/funWithDFS.cpp.obj	784c34daeb6cf34
+28	2456	7234107519491537	CMakeFiles/aed2324_p10.dir/Tests/tests.cpp.obj	2ae49147fef49e59
 10298	10380	7227985921691709	lib/libgtest_main.a	3bed59ecc4bb4c28
-24	550	7228105325644877	CMakeFiles/aed2324_p10.dir/Tests/Person.cpp.obj	1217be86e9a50406
+8	768	7234107502638878	CMakeFiles/aed2324_p10.dir/Tests/Person.cpp.obj	1217be86e9a50406
 59	1236	7227985830247764	lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	bcc7e51148b17fa4
 51	10073	7227985918604908	lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	f52cdd64ba623254
 10075	10298	7227985920864740	lib/libgtest.a	958cf25d41b38921
-2056	2491	7228105212117235	aed2324_p10.exe	855bd230d182c857
-18	501	7228105460328913	CMakeFiles/aed2324_p10.dir/Tests/funWithBFS.cpp.obj	5f34b0950db0ebd5
-5	503	7228105460349058	CMakeFiles/aed2324_p10.dir/Tests/funWithDFS.cpp.obj	784c34daeb6cf34
-25	637	7228105461682074	CMakeFiles/aed2324_p10.dir/Tests/Person.cpp.obj	1217be86e9a50406
-11	2128	7228105476540488	CMakeFiles/aed2324_p10.dir/Tests/tests.cpp.obj	2ae49147fef49e59
-2128	2607	7228105481350136	aed2324_p10.exe	855bd230d182c857
-5	535	7228106054772789	CMakeFiles/aed2324_p10.dir/Tests/funWithDFS.cpp.obj	784c34daeb6cf34
-19	545	7228106054880146	CMakeFiles/aed2324_p10.dir/Tests/funWithBFS.cpp.obj	5f34b0950db0ebd5
-27	704	7228106056458196	CMakeFiles/aed2324_p10.dir/Tests/Person.cpp.obj	1217be86e9a50406
-13	2289	7228106072294570	CMakeFiles/aed2324_p10.dir/Tests/tests.cpp.obj	2ae49147fef49e59
-2289	2714	7228106076521841	aed2324_p10.exe	855bd230d182c857
+610	1031	7234695142517979	aed2324_p10.exe	855bd230d182c857

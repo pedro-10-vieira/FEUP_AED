@@ -36,11 +36,28 @@ void dfsVisit(Vertex<int> *v) {
 // TODO
 int dfsGC(Vertex<int> *v);
 int funWithGraphs::giantComponent(Graph<int> *g) {
-    return 0;
+    int res = 0;
+    for (auto v : g->getVertexSet()) {
+        v->setVisited(false);
+    }
+    for (auto v : g->getVertexSet()) {
+        if (!v->isVisited()) {
+            res = max(res, dfsGC(v));
+        }
+    }
+    return res;
 }
 
 int dfsGC(Vertex<int> *v) {
-    return 0;
+    int res = 1;
+    v->setVisited(true);
+    for (auto & e : v->getAdj()) {
+        auto w = e.getDest();
+        if (!w->isVisited()) {
+            res += dfsGC(w);
+        }
+    }
+    return res;
 }
 
 
@@ -49,13 +66,55 @@ int dfsGC(Vertex<int> *v) {
 //=============================================================================
 // TODO
 void dfs_scc(Graph<int> *g, Vertex<int> *v, stack<int> &s, list<list<int>> &l, int &i);
+bool inStack(int n, stack<int> s);
 list<list<int>> funWithGraphs::scc(Graph<int> *g){
     list<list<int>> res;
-
+    int index = 1;
+    stack<int> aux;
+    for(auto v : g->getVertexSet()){
+        v->setNum(0);
+        v->setLow(0);
+    }
+    for(auto v : g->getVertexSet()){
+        if(!v->getNum()) dfs_scc(g,v,aux,res,index);
+    }
     return res;
+
 }
 
-void dfs_scc(Graph<int> *g, Vertex<int> *v, stack<int> &s, list<list<int>> &l, int &i){}
+void dfs_scc(Graph<int> *g, Vertex<int> *v, stack<int> &s, list<list<int>> &l, int &i){
+    v->setLow(i);
+    v->setNum(i);
+    i++;
+    s.push(v->getInfo());
+    for(Edge<int> e : v->getAdj()){
+        if(!e.getDest()->getNum()) {
+            dfs_scc(g, e.getDest(), s, l, i);
+            v->setLow(min(v->getLow(), e.getDest()->getLow()));
+        }
+        else if(inStack(e.getDest()->getInfo(),s)){
+            v->setLow(min(v->getLow(),e.getDest()->getNum()));
+        }
+    }
+    if(v->getLow() == v->getNum()){
+        list<int> scc;
+        int w;
+        do {
+            w = s.top();
+            scc.push_back(w);
+            s.pop();
+        } while (w != v->getInfo());
+        l.push_back(scc);
+    }
+}
+
+bool inStack(int n, stack<int> s) {
+    while (!s.empty() && s.top() != n)
+        s.pop();
+    if (!s.empty())
+        return true;
+    return false;
+}
 
 
 //=============================================================================
